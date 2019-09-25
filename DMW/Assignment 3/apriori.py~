@@ -1,0 +1,7 @@
+import numpy as np
+import pandas as pd
+from apyori import apriori
+
+dataset = pd.read_csv("store_data.csv")
+
+store_data.head()
