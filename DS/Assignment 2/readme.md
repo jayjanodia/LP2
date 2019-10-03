@@ -1,7 +1,7 @@
 # Compile all using: 
 * javac *.java
 
-#Start rmi registry using:
+# Start rmi registry using:
 	*For Windows:
 		*start rmiregistry
 	*For Linux:
