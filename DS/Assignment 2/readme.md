@@ -2,11 +2,11 @@
 * javac *.java
 
 # Start rmi registry using:
-	* For Windows:
-		* start rmiregistry
-	* For Linux:
-		* killall rmiregistry
-		* rmiregistry &
+* For Windows:
+	* start rmiregistry
+* For Linux:
+	* killall rmiregistry
+	* rmiregistry &
 		
 # Start server using:
 java Server
