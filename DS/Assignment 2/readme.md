@@ -1,5 +1,5 @@
 # Compile all using: 
-* javac *.java
+javac *.java
 
 # Start rmi registry using:
 * For Windows:
